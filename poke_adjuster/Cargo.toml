@@ -1,0 +1,7 @@
+[package]
+name = "poke_adjuster"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+stats_calculator = { path = "../stats_calculator" }

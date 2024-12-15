@@ -5,3 +5,14 @@ version = 3
 [[package]]
 name = "poke_adjuster"
 version = "0.1.0"
+dependencies = [
+ "stats_calculator",
+]
+
+[[package]]
+name = "poke_types"
+version = "0.1.0"
+
+[[package]]
+name = "stats_calculator"
+version = "0.1.0"

@@ -1,6 +1,7 @@
-[package]
-name = "poke_adjuster"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
+[workspace]
+members = [
+    "poke_adjuster",
+    "stats_calculator",
+    "poke_types",
+]
+resolver = "2"
