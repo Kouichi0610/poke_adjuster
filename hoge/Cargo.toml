@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "poke_adjuster",
+    "fuga"
 ]
 resolver = "2"

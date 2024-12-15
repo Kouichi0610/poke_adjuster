@@ -4,4 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-stats_calculator = { path = "../stats_calculator" }
+stats_calculator = { path = "../domain/stats_calculator" }
+fuga = {path = "../hoge/fuga"}
+

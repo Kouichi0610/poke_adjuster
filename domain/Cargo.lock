@@ -3,17 +3,5 @@
 version = 3
 
 [[package]]
-name = "fuga"
-version = "0.1.0"
-
-[[package]]
-name = "poke_adjuster"
-version = "0.1.0"
-dependencies = [
- "fuga",
- "stats_calculator",
-]
-
-[[package]]
 name = "stats_calculator"
 version = "0.1.0"

@@ -1,5 +1,5 @@
 [workspace]
 members = [
-    "poke_adjuster",
+    "stats_calculator"
 ]
 resolver = "2"

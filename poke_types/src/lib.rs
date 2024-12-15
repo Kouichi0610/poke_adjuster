@@ -1,4 +1,0 @@
-
-pub fn type_add(x: u32, y: u32) -> u32 {
-    x+y
-}
